@@ -1,5 +1,5 @@
 # R13
-[Reto 13 Programación]([https://jsonlint.com/](https://github.com/fegonzalez7/pdc_unal_clase18?tab=readme-ov-file#reto-13))
+[Reto 13 Programación]([https://github.com/fegonzalez7/pdc_unal_clase18?tab=readme-ov-file#reto-13])
 ## Algoritmo de impresion organizada de valores
 ```python
 dictx = {22:"x", 23:23, 80:24**(1/2)} # Diccionario con error
